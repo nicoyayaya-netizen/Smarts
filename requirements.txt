@@ -1,7 +1,4 @@
 streamlit
 pandas
-altair
-requests
-streamlit-lottie
+plotly
 openpyxl
-
