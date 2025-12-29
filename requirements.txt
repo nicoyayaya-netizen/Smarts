@@ -1,4 +1,6 @@
 streamlit
 pandas
-plotly
+altair
+requests
+streamlit-lottie
 openpyxl
